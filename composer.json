@@ -20,7 +20,7 @@
       "email": "ind.purvesh@gmail.com"
     }
   ],
-  "type": "avored-module",
+  "type": "project",
   "repositories": [
     {
       "type": "vcs",
