@@ -32,7 +32,7 @@
     "barryvdh/laravel-dompdf": "0.8.*",
     "laravel/passport": "5.0.*",
     "stripe/stripe-php": "^6.3",
-    "avored/framework": "dev-dev-bugarray"
+    "avored/framework": "dev-bug-array"
   },
   "autoload": {
     "classmap": [
